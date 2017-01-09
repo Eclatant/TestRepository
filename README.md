@@ -15,3 +15,5 @@
 - git pull : git fetch + git merge, Push한 이후의 변경내용을 가져옴
 - git fetch : Remote repository를 Local repository로 가져옴
 - git merge : Local repository를 Working directory로 가져옴
+
+자동으로 병합되지 않는 conflict시에는 merge 또는 rebase를 사용할 것
