@@ -12,3 +12,6 @@
 - git commit : Staging area의 사항들을 Local repository에 등록
 - git push : Local repository의 사항들을 Remote repository에 등록
 - git clone : Remote repository를 Working directory로 복사하면서 remote로 등록
+- git pull : git fetch + git merge, Push한 이후의 변경내용을 가져옴
+- git fetch : Remote repository를 Local repository로 가져옴
+- git merge : Local repository를 Working directory로 가져옴
